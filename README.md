@@ -108,5 +108,7 @@ max_y = min(alto - 1, ceil(max(A.y, B.y, C.y)))
 ## Ejecucion
 
 ```bash
+zig init
+zig fetch --save git+https://github.com/raylib-zig/raylib-zig#devel
 zig build run
 ```
