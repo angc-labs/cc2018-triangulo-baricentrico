@@ -1,5 +1,8 @@
 # Triangulo baricentrico
 
+<img width="815" height="490" alt="image" src="https://github.com/user-attachments/assets/4e34fc3a-02c6-4b1a-a560-0225f457eead" />
+
+
 Implementacion en Zig y Raylib de rasterizacion de triangulos mediante coordenadas baricentricas, interpolando los colores Rojo, Verde y Azul asignados a cada vertice con manipulacion interactiva en tiempo real.
 
 ## Imagenes
